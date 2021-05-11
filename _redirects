@@ -1,4 +1,4 @@
 /home              /
-/invoices  /invoices
-/login              /login?redirect=%2Fuser
-/user           /user
+/invoices          /invoices
+/login             /login?redirect=%2Fuser
+/user              /user
